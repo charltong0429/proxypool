@@ -1,8 +1,8 @@
 # your domain
-domain: example.com
+domain: thisiso.top
 
 # database url
-database_url: ""
+database_url: "thisiso.top"
 
 # cloudflare api
 cf_email: ""
